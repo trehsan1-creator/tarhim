@@ -59,7 +59,7 @@ supabaseUrl: "https://xxxxx.supabase.co",
 supabaseKey: "eyJhbGciOi..."
 ```
 
-اگر هر دو مقدار خالی باشند، پیام‌ها بی‌صدا در `localStorage` با کلید `memorial_mohammaddoost-haftom-1403` ذخیره می‌شوند. سه پیام نمونه نیز برای حالت محلی نمایش داده می‌شوند.
+اگر هر دو مقدار خالی باشند، پیام‌ها بی‌صدا در `localStorage` با کلید `memorial_mohammaddoost-haftom-1403` ذخیره می‌شوند. در نسخه‌ی production هیچ پیام نمونه‌ای نمایش داده نمی‌شود و دیوار تا زمان ارسال اولین پیام خالی می‌ماند.
 
 ## 📦 دیپلوی
 - **GitHub Pages:** Settings → Pages → شاخه‌ی اصلی و پوشه‌ی root
